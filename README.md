@@ -1,23 +1,52 @@
 # Quora Clone Project
 
-<br>
-It is a clone of Quora WebApp.
-<br>
-# Pre-requisites
-<br>
-Install Node.js.
-<br>
-# Getting Started
-<br>
-- Clone the repository
-```
-    git clone "https://github.com/Amaan-12-git/Quora-CLone.git"
-```
-- Intsall Dependencies
-```
-    npm install
-```
-- Build and run the project
-```
-npm start
-```
+This is a clone of the Quora WebApp, where users can create and manage text-based posts associated with their usernames.
+
+## Pre-requisites
+
+- **Node.js**: Ensure that Node.js is installed on your system. You can download it from [Node.js official website](https://nodejs.org/).
+
+## Getting Started
+
+Follow these steps to get the project up and running on your local machine:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/Amaan-12-git/Quora-Clone.git
+   ```
+
+2. **Install Dependencies:**
+
+   Navigate to the project directory and install the required dependencies:
+
+   ```bash
+   cd Quora-Clone
+   npm install
+   ```
+
+3. **Build and Run the Project:**
+
+   Start the development server:
+
+   ```bash
+   npm start
+   ```
+
+   The application should now be running on [http://localhost:3000](http://localhost:3000) or the port specified in your configuration.
+
+## Features
+
+- Users can create, view, edit, and delete text-based posts.
+- RESTful APIs handle CRUD operations for posts and user profiles.
+- User authentication is implemented for secure access and personalized content management.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Express.js](https://expressjs.com/) for the backend framework.
+- [MongoDB](https://www.mongodb.com/) for the database.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) for frontend design.
