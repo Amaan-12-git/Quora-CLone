@@ -41,10 +41,6 @@ Follow these steps to get the project up and running on your local machine:
 - RESTful APIs handle CRUD operations for posts and user profiles.
 - User authentication is implemented for secure access and personalized content management.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Express.js](https://expressjs.com/) for the backend framework.
