@@ -33,7 +33,7 @@ Follow these steps to get the project up and running on your local machine:
    npm start
    ```
 
-   The application should now be running on [http://localhost:3000](http://localhost:8080) or the port specified in your configuration.
+   The application should now be running on [http://localhost:8080](http://localhost:8080) or the port specified in your configuration.
 
 ## Features
 
