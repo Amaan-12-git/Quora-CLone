@@ -1,6 +1,6 @@
 # Quora Clone Project
 
-This is a clone of the Quora WebApp, where users can create and manage text-based posts associated with their usernames.
+This is a clone of the Quora WebApp using MongoDB, where users can create and manage text-based posts associated with their usernames.
 
 ## Pre-requisites
 
